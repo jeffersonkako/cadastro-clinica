@@ -1,5 +1,8 @@
 # Projeto de Cadastro de Clínica 
 
+![image](https://github.com/jeffersonkako/cadastro-clinica/assets/104142117/d7318af5-5f5e-4510-a669-75a13a41e2a6)
+
+
 ## Descrição
 Este projeto é um sistema de cadastro simples para uma clínica, desenvolvido em Node.js. Ele permite gerenciar pacientes e consultas, incluindo adicionar novos pacientes, listar pacientes, marcar consultas, listar consultas, cancelar consultas e salvar os dados em arquivos JSON dentro do projeto.
 
