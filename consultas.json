@@ -1,0 +1,20 @@
+[
+  {
+    "paciente": "Jefferson Kako",
+    "data": "12-01-2024",
+    "hora": "09:00",
+    "especialidade": "Odonto"
+  },
+  {
+    "paciente": "Maria Clara",
+    "data": "13-01-2024",
+    "hora": "09:00",
+    "especialidade": "Gastro"
+  },
+  {
+    "paciente": "Jose Pedro",
+    "data": "20-02-2024",
+    "hora": "14:00",
+    "especialidade": "Cardio"
+  }
+]
