@@ -23,12 +23,11 @@ Para configurar o projeto em sua máquina local, siga estas etapas:
       
       ```bash
       git clone https://github.com/jeffersonkako/cadastro-clinica.git
-      ```
+
 2. Navegue até a pasta do projeto clonado:
         
-        ```bash
-        cd cadastro-clinica
-        ```
+      ```bash
+      cd cadastro-clinica
 
 3. Não há dependências de terceiros a serem instaladas para este projeto.
 
@@ -37,9 +36,8 @@ Para executar o aplicativo, siga estas etapas:
 
 1. No terminal, na raiz do projeto, execute o seguinte comando:
   
-        ```bash
-        node app.js
-        ```
+      ```bash
+      node app.js
 
 2. O menu principal será exibido. Siga as instruções na tela para interagir com o sistema.
 
